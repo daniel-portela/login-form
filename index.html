@@ -1,52 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formulário de login</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
-  </head>
 
-  <body>
-    <form action="thank-you.html">
-      <h2>Insira seus dados</h2>
-      <div class="form-group fullname">
-        <label for="fullname">Nome completo</label>
-        <input type="text" id="fullname" placeholder="Escreva seu nome completo">
-      </div>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulário de login</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
+</head>
 
-      <div class="form-group email">
-        <label for="email">Endereço de e-mail</label>
-        <input type="text" id="email" placeholder="Escreva seu endereço de e-mail">
-      </div>
+<body>
+  <form action="thank-you.html">
+    <h2>Insira seus dados</h2>
+    <div class="form-group fullname">
+      <label for="fullname">Nome completo</label>
+      <input type="text" id="fullname" placeholder="Escreva seu nome completo">
+    </div>
 
-      <div class="form-group password">
-        <label for="password">Senha</label>
-        <input type="password" id="password" placeholder="Escreva sua senha">
-        <i id="pass-toggle-btn" class="fa-solid fa-eye"></i>
-      </div>
+    <div class="form-group email">
+      <label for="email">Endereço de e-mail</label>
+      <input type="text" id="email" placeholder="Escreva seu endereço de e-mail">
+    </div>
 
-      <div class="form-group date">
-        <label for="date">Data de nascimento</label>
-        <input type="date" id="date" placeholder="Selecione sua data">
-      </div>
+    <div class="form-group password">
+      <label for="password">Senha</label>
+      <input type="password" id="password" placeholder="Escreva sua senha">
+      <i id="pass-toggle-btn" class="fa-solid fa-eye"></i>
+    </div>
 
-      <div class="form-group gender">
-        <label for="gender">Gênero</label>
-        <select id="gender">
-          <option value="" selected disabled>Selecione seu gênero</option>
-          <option value="Male">Masculino</option>
-          <option value="Female">Feminino</option>
-          <option value="Other">Outro</option>
-        </select>
-      </div>
+    <div class="form-group date">
+      <label for="date">Data de nascimento</label>
+      <input type="date" id="date" placeholder="Selecione sua data">
+    </div>
 
-      <div class="form-group submit-btn">
-        <input type="submit" value="Enviar">
-      </div>
-    </form>
+    <div class="form-group gender">
+      <label for="gender">Gênero</label>
+      <select id="gender">
+        <option value="" selected disabled>Selecione seu gênero</option>
+        <option value="Male">Masculino</option>
+        <option value="Female">Feminino</option>
+        <option value="Other">Outro</option>
+      </select>
+    </div>
 
-    <script src="script.js"></script>
-  </body>
+    <div class="form-group submit-btn">
+      <input type="submit" value="Enviar">
+    </div>
+  </form>
+
+  <script src="script.js"></script>
+</body>
+
 </html>
