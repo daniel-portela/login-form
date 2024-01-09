@@ -14,7 +14,7 @@
 
 <b>Capturas de tela de demonstração:</b>
 
-![preview formulário de login](image-1.png)
+![Alt text](<formulário de login.png>)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 
