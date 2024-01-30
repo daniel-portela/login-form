@@ -8,13 +8,12 @@
 
 <p>Este formulário incorpora campos essenciais, incluindo usuário, senha, email, dados de nascimento e gênero, proporcionando uma experiência completa de registro e autenticação. são incluídos para nome de usuário, senha, email e dados de nascimento. - Ícones de opções são utilizados para permitir a escolha do gênero e das datas. - Um botão é adicionado para acionar o envio do formulário.</p>
 
-<a href="https://submitloginform.netlify.app/"><strong>Demonstração ao vivo</strong></a>
+<a href="https://submitloginform.netlify.app/" target="_blank"><strong>Demonstração ao vivo</strong></a>
 </div><br>
 
+![Alt text](preview.jpg)
+![Alt text](preview-2.jpg)
 
-<b>Capturas de tela de demonstração:</b>
-
-![Alt text](<formulário de login.png>)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=45&section=footer"/>
 
@@ -31,4 +30,7 @@
 </a>
  <a href="https://wa.me/77999109489" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
+</a>
+<a href="https://www.behance.net/danielengineer_" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-behance-05122A?style=flat&logo=behance" alt="behance"/>
 </a>
