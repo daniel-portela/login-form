@@ -11,10 +11,10 @@
 <a href="https://submitloginform.netlify.app/" target="_blank"><strong>Demonstração ao vivo</strong></a>
 </div><br>
 
-![Alt text](preview.jpg)
-![Alt text](preview-2.jpg)
+![image](https://github.com/daniel-portela/login-form/assets/110783805/d1d57ce4-dbb1-4dd6-b31a-f4cdf56b67b7)
+![image](https://github.com/daniel-portela/login-form/assets/110783805/39823d42-d466-4578-851e-51d9f3906e78)
 
-![alt text](preview-responsive.jpg)
+![preview-responsive](https://github.com/daniel-portela/login-form/assets/110783805/f082b0bb-7722-43e7-9794-9bf081069512)
 
 <b>Características</b>
 
