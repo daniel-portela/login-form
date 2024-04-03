@@ -3,8 +3,6 @@
 <a href="https://submitloginform.netlify.app/" target="_blank">Formulário de login</a> com envio de dados
 
 <p>Este formulário incorpora campos essenciais, incluindo usuário, senha, email, dados de nascimento e gênero, proporcionando uma experiência completa de registro e autenticação. são incluídos para nome de usuário, senha, email e dados de nascimento. - Ícones de opções são utilizados para permitir a escolha do gênero e das datas. - Um botão é adicionado para acionar o envio do formulário.</p>
-
-<a href="https://submitloginform.netlify.app/" target="_blank">Demonstração ao vivo</a>
 </div>
 
 ![image](https://github.com/daniel-portela/login-form/assets/110783805/d1d57ce4-dbb1-4dd6-b31a-f4cdf56b67b7)
