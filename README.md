@@ -36,13 +36,3 @@ Este projeto está sob [LICENSE](LICENSE), o que significa que você não tem pe
 Se você tiver alguma dúvida, sugestão ou interesse em colaborar, não hesite em me contatar.
 
 Email: <a href="mailto:danielportela.ti@gmail.com"> danielportela.ti@gmail.com</a> 
-
-<a href="https://linkedin.com/in/danielportelati" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/ - LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
- <a href="https://instagram.com/danielportelati" target="_blank">
- <img align="center" src="https://img.shields.io/badge/ - Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
- <a href="https://wa.me/77999408643" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
-</a>
