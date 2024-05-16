@@ -31,8 +31,8 @@
 
 Este projeto está sob [LICENSE](LICENSE), o que significa que você não tem permissão para usar, modificar e distribuir o código conforme desejar, desde que mantenha o aviso de direitos autorais e a licença. Contudo, se você encontrar bugs, tiver sugestões de melhorias ou quiser contribuir de alguma forma, ficarei feliz em receber seu feedback.
 
-<b>Contato:</b>
+✉️ <b>Contato:</b>
 
 Se você tiver alguma dúvida, sugestão ou interesse em colaborar, não hesite em me contatar.
 
-Email: <a href="mailto:danielportela.ti@gmail.com"> danielportela.ti@gmail.com</a> 
+Email: <a href="mailto:danielportela.ti@gmail.com"> danielportela.ti@gmail.com</a>
